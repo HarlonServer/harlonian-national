@@ -1,0 +1,151 @@
+{
+    "title": "HarlonTransit",
+    "layout_type": "full-width",
+    "style": "minimal",
+    "palette": "green",
+    "mode": "light",
+    "base_font": "sans-serif",
+    "header": {
+        "title": "App",
+        "logo": "images/HT-logo.svg",
+        "logo_alt": "HT logo",
+        "has_primary_nav": true,
+        "primary_nav_links": [
+            {
+                "label": "Pricing",
+                "url": "/pricing",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link"
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide",
+                "style": "link"
+            }
+        ],
+        "has_secondary_nav": true,
+        "secondary_nav_links": [
+            {
+                "label": "Harlon City Server website",
+                "url": "https://donate.harlonserver.net",
+                "style": "primary"
+            },
+	    {
+                "label": "Plan your trip",
+                "url": "https://donate.harlonserver.net",
+                "style": "secondary"
+            },
+            {
+                "label": "Route Map",
+                "url": "https://drive.google.com/file/d/1wlTEnaUhLJ9O9UL-uGLn0Gzf1632INLf/view?usp=sharing",
+                "style": "secondary"
+            }
+        ],
+        "has_anncmnt": true,
+        "anncmnt_content": "We are experiencing issues with the Go2 Card. If you have been randomly fined you are eligible to apply for compensation. **[Learn More](/pricing/)**",
+        "anncmnt_align": "left",
+        "anncmnt_is_home_only": true,
+        "anncmnt_has_close": true,
+        "anncmnt_id": "new-features"
+    },
+    "footer": {
+        "logo": "images/HT-logo.svg",
+        "logo_alt": "HT logo",
+        "has_primary_nav": true,
+        "primary_nav_title": "HarlonTransit",
+        "primary_nav_links": [
+            {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide",
+                "style": "link"
+            }
+        ],
+        "has_secondary_nav": true,
+        "secondary_nav_title": "Blog",
+        "secondary_nav_links": [
+            {
+                "label": "News",
+                "url": "/blog/category/news",
+                "style": "link"
+            },
+            {
+                "label": "General",
+                "url": "/blog/category/general",
+                "style": "link"
+            },
+            {
+                "label": "Tutorials",
+                "url": "/blog/category/tutorials",
+                "style": "link"
+            }
+        ],
+        "has_tertiary_nav": true,
+        "tertiary_nav_title": "Legal",
+        "tertiary_nav_links": [
+            {
+                "label": "Terms & Conditions",
+                "url": "/terms-conditions",
+                "style": "link"
+            },
+            {
+                "label": "Privacy Policy",
+                "url": "/privacy-policy",
+                "style": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "twitter",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "github",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "YouTube",
+                "url": "https://www.youtube.com/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "youtube",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://instagram.com/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "instagram",
+                "icon_position": "center",
+                "new_window": true
+            }
+        ],
+        "content": "&copy; Harlon City Server"
+    }
+}
