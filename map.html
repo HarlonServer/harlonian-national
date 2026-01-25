@@ -2,18 +2,18 @@
 title: Network Map
 layout: layout.html
 slug: /map/
-og_content: HarlonTransit's official network map is a reliable companion for navigating our network.
-hero_image: https://ht.harlonserver.net/img/m31-hero2.png
+og_content: Keep a copy on your phone, in your pocket or on your wall - our official network map makes it easy to figure out how to get around our nationwide network!
+hero_image: https://ht.harlonserver.net/img/crossing.png
 ---
   <div class="nsw-hero-banner nsw-hero-banner--dark">
     <div class="nsw-hero-banner__container">
       <div class="nsw-hero-banner__wrapper">
         <div class="nsw-hero-banner__content">
-          <h1>Network Map</h1>
+          <h1>{{title}}</h1>
           <p class="nsw-intro">{{og_content}}</p>
         </div>
         <div class="nsw-hero-banner__box">
-          <img class="nsw-hero-banner__image" src="/img/m31-hero2.png" alt="Image of a Metro Line M31 train crossing Upminster Bridge." />
+          <img class="nsw-hero-banner__image" src="/img/crossing.png" alt="Image of the rear of a HN train passing a railway crossing along the ECML."/>
         </div>
       </div>
     </div>
@@ -22,16 +22,16 @@ hero_image: https://ht.harlonserver.net/img/m31-hero2.png
 <div class="nsw-m-right-md nsw-m-left-md nsw-p-top-md nsw-p-bottom-md">
 <figure class="nsw-media nsw-media--true">
 <div id="map_embed">
-    <script src="/js/pdfobject.js"></script>
-    <script>PDFObject.embed("/pdf/HTmap2025-08-23_janukiii_peer.pdf", "#map_embed");</script>
+    <script src="https://cdn.jsdelivr.net/npm/pdfobject.js"></script>
+    <script>PDFObject.embed("/pdf/ecml-route-map.pdf", "#map_embed");</script>
     <style>
         .pdfobject-container { height: 30rem; }
     </style>
 </div>
-<figcaption>August 2025 Network Map created by Janukiii_, with modifications by Peer. Note that the Commuter network is not currently operating; reopening dates have not yet been determined.</figcaption>
+<figcaption>A map of the East Coast Mainline (ECML) by MeneerDePeer - national network map coming soon! <!--Harlonian National's official network map as of XX 2026, created by Janukiii_.--></figcaption>
 </figure>
 
-<h1>Previous Network Maps</h1>
+<!--<h1>Previous Network Maps</h1>
   <div class="nsw-link-list">
     <ul>
       <li>
@@ -59,6 +59,6 @@ hero_image: https://ht.harlonserver.net/img/m31-hero2.png
         </a>
       </li> 
     </ul>
-  </div>
+  </div>-->
 
 </div>
