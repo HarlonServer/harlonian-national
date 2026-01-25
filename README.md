@@ -1,0 +1,2 @@
+# harlon-transit-website
+The website for HarlonTransit, the public transport operator within the city of Harlon. This site uses the [NSW Design System (NSWDS)](https://designsystem.nsw.gov.au/), with modifications to match server branding. It is built with the [Eleventy (11ty) static site generator](https://www.11ty.dev/), and hosted on [GitHub Pages](https://pages.github.com), and uses the [HTML5 Boilerplate](https://html5boilerplate.com/) as its structure.
