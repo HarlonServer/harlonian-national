@@ -102,8 +102,9 @@
   <div class="nsw-global-alert nsw-global-alert--light js-global-alert" role="alert">
     <div class="nsw-global-alert__wrapper">
       <div class="nsw-global-alert__content">
-        <div class="nsw-global-alert__title">Website Under Construction</div>
-        <p>Much like our network, our website is still under construction! Whilst we work to fill the site with useful information and nice pictures of our nationwide network, you'll notice several spots where things will be missing or are marked as "to be confirmed". We ask that you please bear with us whilst we work to progress the site to completion!</p>
+        <div class="nsw-global-alert__title">Get Ready for the ECML - launching <span id="event-local"> </span></div>
+        <p>The East Coast Mainline (ECML) will bring the City of Harlon closer to the Sealand region and the City of Victoria with HN's regional and intercity trains. There's more than just better connectivity, though - the ECML brings new, well-paid job opportunities. Why not become one of the first to operate the new line?</p>
+        <p><a href="/ecml">Learn more about the ECML</a> || <a href="/careers#available-opportunities">View ECML job opportunities</a></p>
       </div>
       <button class="nsw-icon-button js-close-alert" type="button" aria-expanded="true">
         <span class="material-icons nsw-material-icons" focusable="false" aria-hidden="true">close</span>
@@ -247,6 +248,23 @@
 
 <script src="https://cdn.jsdelivr.net/npm/nsw-design-system@3/dist/js/main.min.js"></script>
 <script>window.NSW.initSite()</script>
+
+<script>
+  // UTC instant
+  const utcIso = '2026-02-01T12:00:00Z'; // 12:00 UTC
+
+  // Create Date from UTC instant
+  const instant = new Date(utcIso);
+
+  // Format for visitor's locale/timezone
+  const formatted = new Intl.DateTimeFormat(undefined, {
+    dateStyle: 'long',
+    timeStyle: 'short'
+  }).format(instant);
+
+  document.getElementById('event-local').textContent = formatted;
+</script>
+
 
 <footer class="nsw-footer nsw-footer--dark">
   <div class="nsw-footer__lower">
