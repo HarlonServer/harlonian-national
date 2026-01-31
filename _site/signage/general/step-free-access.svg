@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866667 33.866668"
+   version="1.1"
+   id="svg843"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="step-free-access.svg"
+   inkscape:export-filename="..\general\step-free-access.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs837">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4849238"
+     inkscape:cx="19.529621"
+     inkscape:cy="-42.763136"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     width="1122.5197px"
+     showguides="false"
+     inkscape:lockguides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1406"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata840">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2083"
+       transform="matrix(0.50196081,0,0,0.98461542,-17.265362,0)"
+       style="fill:#0034c2;fill-opacity:1">
+      <rect
+         style="fill:#0034c2;fill-opacity:1;stroke-width:3.06501;stroke-linejoin:round"
+         id="rect1410-9"
+         width="34.395832"
+         height="34.395832"
+         x="34.395836"
+         y="0" />
+      <rect
+         style="fill:#0034c2;fill-opacity:1;stroke-width:3.06501;stroke-linejoin:round"
+         id="rect1410-3"
+         width="34.395832"
+         height="34.395832"
+         x="67.46875"
+         y="0" />
+    </g>
+    <g
+       id="g16"
+       transform="translate(0,-0.10413228)">
+      <text
+         xml:space="preserve"
+         style="font-size:27.4563px;line-height:1.25;font-family:'Material Icons';-inkscape-font-specification:'Material Icons';fill:#ffffff;stroke-width:1.02962"
+         x="3.205183"
+         y="27.535707"
+         id="text1714"><tspan
+           sodipodi:role="line"
+           id="tspan1712"
+           x="3.205183"
+           y="27.535707"
+           style="fill:#ffffff;stroke-width:1.02962"></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.57233px;line-height:1.25;font-family:Manrope;-inkscape-font-specification:'Manrope Bold';text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;opacity:0.999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00143294;stroke-dasharray:0.316447, 0.158223;-inkscape-stroke:none"
+         x="16.936014"
+         y="30.832266"
+         id="text14"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.00143294"
+           x="16.936014"
+           y="30.832266"
+           id="tspan15">Step-Free Access</tspan></text>
+    </g>
+  </g>
+</svg>
